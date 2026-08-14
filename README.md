@@ -49,6 +49,7 @@ https://leetcode.com/u/iceyvik45/
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Iceyvik/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Iceyvik/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Iceyvik/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -57,6 +58,7 @@ https://leetcode.com/u/iceyvik45/
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Iceyvik/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Iceyvik/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -73,4 +75,8 @@ https://leetcode.com/u/iceyvik45/
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Iceyvik/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+## String
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Iceyvik/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
