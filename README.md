@@ -42,6 +42,7 @@ https://leetcode.com/u/iceyvik45/
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Iceyvik/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Iceyvik/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Iceyvik/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
@@ -62,14 +63,17 @@ https://leetcode.com/u/iceyvik45/
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Iceyvik/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Iceyvik/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Iceyvik/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Iceyvik/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Iceyvik/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Iceyvik/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
@@ -79,4 +83,8 @@ https://leetcode.com/u/iceyvik45/
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Iceyvik/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Iceyvik/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
