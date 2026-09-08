@@ -105,4 +105,5 @@ https://leetcode.com/u/iceyvik45/
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Iceyvik/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/Iceyvik/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
