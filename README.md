@@ -43,6 +43,7 @@ https://leetcode.com/u/iceyvik45/
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Iceyvik/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/Iceyvik/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/Iceyvik/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Iceyvik/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Iceyvik/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -110,4 +111,8 @@ https://leetcode.com/u/iceyvik45/
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Iceyvik/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Iceyvik/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Iceyvik/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
